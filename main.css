@@ -1,0 +1,12 @@
+.main-one {
+ max-width: 800px;
+ margin: 200px 0 auto;
+}
+.logo-cont {
+ max-width:100%;
+}
+
+.logo-img{
+  margin: 0 auto;
+  text-align: center;
+}
